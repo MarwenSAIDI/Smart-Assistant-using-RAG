@@ -10,5 +10,7 @@
 
 ## Running the project
 To run the project use the following command
-``streamlit run app.py``
+```
+    streamlit run app.py
+```
 
